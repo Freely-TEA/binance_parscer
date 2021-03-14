@@ -104,13 +104,6 @@ class ParseSite:
             remove(f'Table-{i}.csv')
         zfile.close()
 
-
-
-
-
-
-
-
 if __name__ == '__main__':
     # взятие времени сна
     config = ConfigParser()
